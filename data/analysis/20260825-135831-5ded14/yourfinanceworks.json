@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "YourFinanceWORKS",
+  "source_url": "https://news.ycombinator.com/item?id=47212707",
+  "team": {
+    "summary": "The only available team information is the founder's handle, 'snowsky'. There is no detail on domain expertise, technical background, or prior experience, so team strength and execution capability cannot be confidently assessed.",
+    "citations": [
+      "https://www.yourfinanceworks.com"
+    ]
+  },
+  "product": {
+    "summary": "Described as 'Open-source financial management with AI', the product appears to focus on financial management. However, there is no evidence it automates a specific, named workflow end-to-end for SMBs, nor that it acts as an agent within such a workflow. The description is too broad to confirm fit to the thesis.",
+    "citations": [
+      "https://www.yourfinanceworks.com"
+    ]
+  },
+  "market": {
+    "summary": "Financial management is a common need for SMBs, but the data does not specify whether SMBs are the primary target or what segment is addressed. There is no information on market timing or 'why now'.",
+    "citations": [
+      "https://www.yourfinanceworks.com"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on workflow specificity, agentic capabilities, target customer segment, and team experience. The open-source positioning may also impact defensibility and business model, but there is insufficient data to assess these risks fully.",
+    "citations": [
+      "https://www.yourfinanceworks.com"
+    ]
+  },
+  "differentiation": {
+    "summary": "The product is described as open-source, which may offer some differentiation, but there is no evidence of proprietary data, workflow depth, or unique integrations. Differentiation remains unclear from the available information.",
+    "citations": [
+      "https://www.yourfinanceworks.com"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 2.5,
+    "market_timing": 4.0,
+    "traction": 0.75,
+    "differentiation": 2.0,
+    "total": 15.25
+  },
+  "confidence": "high",
+  "flags": []
+}

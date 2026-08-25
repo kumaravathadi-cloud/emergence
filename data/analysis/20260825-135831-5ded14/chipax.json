@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Chipax",
+  "source_url": "https://www.ycombinator.com/companies/chipax",
+  "team": {
+    "summary": "The founding team consists of Antonio Correa, Fran\u00e7ois Gueneau de Mussy, and Felipe Urz\u00faa. No additional information about their backgrounds, technical expertise, or prior startup experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/chipax"
+    ]
+  },
+  "product": {
+    "summary": "Chipax is described as 'Quickbooks for SMBs in Latam,' suggesting it provides accounting or financial management software for small and medium businesses in Latin America. However, there is no explicit evidence that it automates a specific, named workflow end-to-end or that it acts as an agent making decisions and taking actions within that workflow.",
+    "citations": [
+      "https://www.ycombinator.com/companies/chipax"
+    ]
+  },
+  "market": {
+    "summary": "The product targets SMBs in Latin America, a large and underserved market segment. Accounting and financial management are common needs across many SMBs, supporting broad applicability. No explicit 'why now' or timing signal is provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/chipax"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on whether Chipax automates a specific workflow end-to-end and whether it functions as an agent rather than a general SaaS tool. There is also limited information on team background and traction.",
+    "citations": [
+      "https://www.ycombinator.com/companies/chipax"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, unique integrations, or defensible workflow depth that would differentiate Chipax from other accounting solutions.",
+    "citations": [
+      "https://www.ycombinator.com/companies/chipax"
+    ]
+  },
+  "score": {
+    "product_fit": 9.0,
+    "team_execution": 7.5,
+    "market_timing": 14.0,
+    "traction": 6.0,
+    "differentiation": 2.0,
+    "total": 38.5
+  },
+  "confidence": "high",
+  "flags": []
+}

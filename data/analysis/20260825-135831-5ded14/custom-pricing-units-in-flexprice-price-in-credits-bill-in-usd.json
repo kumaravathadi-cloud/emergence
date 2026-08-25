@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Custom Pricing Units in Flexprice (price in credits, bill in USD)",
+  "source_url": "https://news.ycombinator.com/item?id=46991901",
+  "team": {
+    "summary": "The founding team consists of ShreyaChaurasia. No additional information about the founder's background, technical expertise, or prior startup experience is provided in the available data.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46991901"
+    ]
+  },
+  "product": {
+    "summary": "Flexprice offers a feature for defining custom pricing units (e.g., credits or tokens) with deterministic conversion to a base currency (USD), supporting usage across plans, recurring charges, and wallets. The product aims to solve reconciliation and accounting issues for teams selling tokens or operating in multiple regions. However, it is not positioned as an agent that automates an end-to-end workflow; rather, it provides infrastructure for pricing and billing logic.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46991901"
+    ]
+  },
+  "market": {
+    "summary": "The product targets teams dealing with token/credit-based pricing and multi-region operations, which may include SMBs but is not explicitly limited to them. The workflow addressed (pricing and billing in custom units) is relevant to some SMBs, but the breadth and commonality across the SMB segment are not clearly established.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46991901"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear fit with the thesis (as the product is not an agent automating a specific workflow), limited information on founder capabilities, and uncertain market size within SMBs. The product may be more of a developer tool or infrastructure layer rather than a workflow-owning agent.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46991901"
+    ]
+  },
+  "differentiation": {
+    "summary": "Flexprice claims deterministic conversion and a single source of truth for rates, which may reduce reconciliation errors. However, there is limited evidence of defensible edge such as proprietary data, deep workflow integration, or unique distribution.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46991901"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 5.0,
+    "market_timing": 6.0,
+    "traction": 3.0,
+    "differentiation": 2.0,
+    "total": 22.0
+  },
+  "confidence": "high",
+  "flags": []
+}

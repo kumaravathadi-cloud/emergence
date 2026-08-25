@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "haddock",
+  "source_url": "https://www.ycombinator.com/companies/haddock",
+  "team": {
+    "summary": "The founding team consists of Arnau Navarro and Pol Rosell. No further information about their backgrounds, domain expertise, or technical experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "product": {
+    "summary": "Haddock offers 'AI agents to run restaurant operations.' While this suggests automation of restaurant workflows, the data does not specify which exact workflows are automated, nor does it confirm end-to-end ownership or agentic action within a named workflow.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "market": {
+    "summary": "The product targets restaurant operations, which are common among SMBs in the food service sector. However, there is no detail on the breadth of adoption or specific market timing factors.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on the specific workflows automated, the depth of automation, and whether the solution is agentic as defined by the thesis. There is also no information on traction or team background.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, data, integrations, or other defensible differentiation.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "score": {
+    "product_fit": 12.0,
+    "team_execution": 7.5,
+    "market_timing": 10.0,
+    "traction": 3.0,
+    "differentiation": 1.0,
+    "total": 33.5
+  },
+  "confidence": "high",
+  "flags": []
+}

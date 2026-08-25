@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "qomplement",
+  "source_url": "https://www.ycombinator.com/companies/qomplement",
+  "team": {
+    "summary": "The founding team consists of Kerim Taray and Andres Garza. No additional information about their backgrounds, technical expertise, or prior experience is provided in the available data, so it is not possible to assess domain relevance or execution track record.",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "product": {
+    "summary": "Qomplement is described as 'The Agentic ERP for supply chain operations.' This suggests a focus on automating supply chain workflows, potentially with agentic capabilities. However, the data does not specify which exact workflow(s) are automated or the depth of end-to-end ownership, so the fit to the thesis is promising but not fully confirmed.",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "market": {
+    "summary": "The product targets supply chain operations, which are common and critical workflows for many SMBs. However, the data does not specify the size or type of SMBs targeted, nor does it provide a 'why now' rationale such as new technology or regulatory drivers.",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on the specific workflow automated, the agentic depth of the product, and the backgrounds of the founders. Without more information, there is uncertainty about product fit, execution ability, and market timing.",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "differentiation": {
+    "summary": "The claim of being an 'Agentic ERP' hints at workflow depth and possible differentiation through automation, but there is no information on proprietary technology, data, or unique integrations. Differentiation cannot be confidently assessed from the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "score": {
+    "product_fit": 21.0,
+    "team_execution": 10.0,
+    "market_timing": 12.0,
+    "traction": 7.5,
+    "differentiation": 4.0,
+    "total": 54.5
+  },
+  "confidence": "high",
+  "flags": []
+}

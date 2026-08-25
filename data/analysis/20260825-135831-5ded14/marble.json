@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Marble",
+  "source_url": "https://www.ycombinator.com/companies/joinmarble",
+  "team": {
+    "summary": "The founding team consists of Aakar Khanna and Arjun Chaliha. No further information on their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "product": {
+    "summary": "Marble is described as 'the autonomous back-of-house for restaurants.' This suggests a focus on automating back-of-house operations for restaurant SMBs, potentially as an agentic solution. However, the specific workflow(s) automated and the degree of end-to-end ownership are not detailed in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "market": {
+    "summary": "The product targets restaurants, a common SMB segment with widespread back-of-house operational needs. The data does not specify the breadth of workflow applicability or provide a 'why now' rationale.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on the specific workflow automated, the agentic nature of the product, and the backgrounds of the founders. Without more information, it is difficult to assess execution capability or product depth.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, data, integrations, or other defensible advantages.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "score": {
+    "product_fit": 15.0,
+    "team_execution": 7.5,
+    "market_timing": 10.0,
+    "traction": 4.5,
+    "differentiation": 2.0,
+    "total": 39.0
+  },
+  "confidence": "high",
+  "flags": []
+}

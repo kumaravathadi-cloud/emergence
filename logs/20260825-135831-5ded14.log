@@ -17,3 +17,22 @@
 {"ts": "2026-08-25T19:28:37+0530", "stage": "sourcing", "candidate": "Nomod payment integrated into usage-based billing stack", "status": "ok", "source": "hacker_news"}
 {"ts": "2026-08-25T19:28:37+0530", "stage": "sourcing", "candidate": "Checkout Flow for credit-based billing", "status": "ok", "source": "hacker_news"}
 {"ts": "2026-08-25T19:28:37+0530", "stage": "sourcing", "candidate": "YourFinanceWORKS", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:39:24+0530", "stage": "analysis", "candidate": "Marble", "status": "ok", "score": 39.0}
+{"ts": "2026-08-25T19:39:29+0530", "stage": "analysis", "candidate": "Zolvo", "status": "ok", "score": 32.5}
+{"ts": "2026-08-25T19:39:34+0530", "stage": "analysis", "candidate": "Cifrato", "status": "ok", "score": 35.5}
+{"ts": "2026-08-25T19:39:38+0530", "stage": "analysis", "candidate": "haddock", "status": "ok", "score": 33.5}
+{"ts": "2026-08-25T19:39:43+0530", "stage": "analysis", "candidate": "Supadock", "status": "ok", "score": 22.5}
+{"ts": "2026-08-25T19:39:49+0530", "stage": "analysis", "candidate": "Integration Labs", "status": "ok", "score": 28.0}
+{"ts": "2026-08-25T19:39:53+0530", "stage": "analysis", "candidate": "Chipax", "status": "ok", "score": 38.5}
+{"ts": "2026-08-25T19:39:59+0530", "stage": "analysis", "candidate": "qomplement", "status": "ok", "score": 54.5}
+{"ts": "2026-08-25T19:40:06+0530", "stage": "analysis", "candidate": "yBANQ", "status": "ok", "score": 34.5}
+{"ts": "2026-08-25T19:40:12+0530", "stage": "analysis", "candidate": "Agent framework that generates its own topology and evolves at runtime", "status": "ok", "score": 43.5}
+{"ts": "2026-08-25T19:40:17+0530", "stage": "analysis", "candidate": "Custom Pricing Units in Flexprice (price in credits, bill in USD)", "status": "ok", "score": 22.0}
+{"ts": "2026-08-25T19:40:25+0530", "stage": "analysis", "candidate": "A commitment model for usage billing", "status": "ok", "score": 27.5}
+{"ts": "2026-08-25T19:40:31+0530", "stage": "analysis", "candidate": "AI code generator with 93% validation success (Python)", "status": "ok", "score": 18.5}
+{"ts": "2026-08-25T19:40:36+0530", "stage": "analysis", "candidate": "StripeMeter", "status": "ok", "score": 18.0}
+{"ts": "2026-08-25T19:40:42+0530", "stage": "analysis", "candidate": "StripeMeter", "status": "ok", "score": 22.5}
+{"ts": "2026-08-25T19:40:48+0530", "stage": "analysis", "candidate": "VisiGrid CLI", "status": "ok", "score": 23.0}
+{"ts": "2026-08-25T19:40:55+0530", "stage": "analysis", "candidate": "Nomod payment integrated into usage-based billing stack", "status": "ok", "score": 28.5}
+{"ts": "2026-08-25T19:41:00+0530", "stage": "analysis", "candidate": "Checkout Flow for credit-based billing", "status": "ok", "score": 43.5}
+{"ts": "2026-08-25T19:41:06+0530", "stage": "analysis", "candidate": "YourFinanceWORKS", "status": "ok", "score": 15.25}

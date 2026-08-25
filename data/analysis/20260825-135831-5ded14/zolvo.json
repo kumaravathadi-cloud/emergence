@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Zolvo",
+  "source_url": "https://www.ycombinator.com/companies/zolvo",
+  "team": {
+    "summary": "The founding team consists of Isabela Rodriguez and Tony Montes. No further information about their backgrounds, technical expertise, or relevant domain experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "product": {
+    "summary": "Zolvo offers 'AI Back-Office Automation for Commercial Lenders.' This suggests a focus on automating back-office workflows specific to commercial lending. However, the data does not specify which exact workflow(s) are automated or whether the product acts as an agent that takes actions and makes decisions end-to-end within those workflows.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "market": {
+    "summary": "The product targets commercial lenders, which may include SMBs, but the data does not clarify whether SMBs are the primary buyer or how broadly applicable the workflow is across the SMB segment.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on the specific workflow automated, whether the solution is agentic, and whether the primary market is SMBs. There is also no information on traction, customer adoption, or founder expertise.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about Zolvo's defensible edge, such as proprietary data, workflow depth, integrations, or distribution advantages.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "score": {
+    "product_fit": 12.0,
+    "team_execution": 7.5,
+    "market_timing": 8.0,
+    "traction": 3.0,
+    "differentiation": 2.0,
+    "total": 32.5
+  },
+  "confidence": "high",
+  "flags": []
+}

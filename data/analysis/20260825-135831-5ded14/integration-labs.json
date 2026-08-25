@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Integration Labs",
+  "source_url": "https://www.ycombinator.com/companies/integration-labs",
+  "team": {
+    "summary": "The founding team consists of Ishwar Gogineni, Parth Shah, and Sidharth Rao. No additional information is provided about their backgrounds, technical expertise, or prior experience, so it is not possible to assess domain or technical fit beyond the presence of three named founders.",
+    "citations": [
+      "https://www.ycombinator.com/companies/integration-labs"
+    ]
+  },
+  "product": {
+    "summary": "Integration Labs offers 'The Unified API for Business Financial Data.' This suggests a product that aggregates or standardizes access to financial data from multiple sources. However, there is no evidence that the product automates a specific, named SMB workflow end-to-end or acts as an agent within a workflow; it appears to be an infrastructure/API offering rather than a workflow-specific agent.",
+    "citations": [
+      "https://www.ycombinator.com/companies/integration-labs"
+    ]
+  },
+  "market": {
+    "summary": "The product addresses business financial data integration, which is a common need across many SMBs. However, the data does not specify whether SMBs are the primary buyer or if the solution is tailored specifically to their needs.",
+    "citations": [
+      "https://www.ycombinator.com/companies/integration-labs"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of evidence that the product automates a specific workflow or acts as an agent, and unclear focus on SMBs as the primary customer. There is also insufficient information about team execution capability.",
+    "citations": [
+      "https://www.ycombinator.com/companies/integration-labs"
+    ]
+  },
+  "differentiation": {
+    "summary": "The only differentiator indicated is the unified API approach for business financial data, but there is no detail on proprietary data, workflow depth, or unique integrations. The level of defensibility is unclear from the available information.",
+    "citations": [
+      "https://www.ycombinator.com/companies/integration-labs"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 7.5,
+    "market_timing": 8.0,
+    "traction": 4.5,
+    "differentiation": 2.0,
+    "total": 28.0
+  },
+  "confidence": "high",
+  "flags": []
+}

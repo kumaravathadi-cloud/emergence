@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Supadock",
+  "source_url": "https://www.ycombinator.com/companies/supadock",
+  "team": {
+    "summary": "The founding team consists of Addwiteey Chrungoo. No further information about the founder's background, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/supadock"
+    ]
+  },
+  "product": {
+    "summary": "Supadock is described as providing 'AI workers for logistics operations.' While this suggests automation in logistics, the data does not specify which logistics workflow is automated, nor does it clarify if the product acts as an agent owning a specific workflow end-to-end for SMBs.",
+    "citations": [
+      "https://www.ycombinator.com/companies/supadock"
+    ]
+  },
+  "market": {
+    "summary": "The product targets logistics operations, which are relevant to many SMBs. However, the data does not specify the size of target customers or provide a 'why now' rationale.",
+    "citations": [
+      "https://www.ycombinator.com/companies/supadock"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on the specific workflow automated, the agentic nature of the product, and insufficient information on team background and market focus. The absence of traction or usage data further increases uncertainty.",
+    "citations": [
+      "https://www.ycombinator.com/companies/supadock"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, workflow depth, integrations, or other defensible advantages.",
+    "citations": [
+      "https://www.ycombinator.com/companies/supadock"
+    ]
+  },
+  "score": {
+    "product_fit": 9.0,
+    "team_execution": 5.0,
+    "market_timing": 6.0,
+    "traction": 1.5,
+    "differentiation": 1.0,
+    "total": 22.5
+  },
+  "confidence": "high",
+  "flags": []
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "yBANQ",
+  "source_url": "https://www.ycombinator.com/companies/ybanq",
+  "team": {
+    "summary": "The founding team consists of Abhishek Ayyagari, Ganesh Mallya, and Ahamed Shah Wahidullah. No additional information about their backgrounds, technical expertise, or prior experience is provided, so it is not possible to assess their domain or technical fit beyond their names.",
+    "citations": [
+      "https://www.ycombinator.com/companies/ybanq"
+    ]
+  },
+  "product": {
+    "summary": "yBANQ is described as 'building a Bill.com for India to simplify collections.' This suggests a focus on automating payment collections for Indian businesses, likely targeting a specific back-office workflow. However, the data does not specify if the product acts as an agent or automates the workflow end-to-end, nor does it detail the exact workflow steps owned.",
+    "citations": [
+      "https://www.ycombinator.com/companies/ybanq"
+    ]
+  },
+  "market": {
+    "summary": "The product appears to target the Indian SMB market by simplifying collections, a common pain point for many small and medium businesses. The reference to Bill.com implies a large addressable market, but there is no explicit 'why now' or evidence of a recent market shift provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/ybanq"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on whether the product is agentic and fully automates a named workflow, as well as insufficient information about the team's relevant experience. There is also no traction or usage data provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/ybanq"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information on proprietary technology, data, or unique integrations that would differentiate yBANQ from other payment or collections platforms. The only differentiator implied is geographic focus (India) and workflow (collections), but this is not substantiated.",
+    "citations": [
+      "https://www.ycombinator.com/companies/ybanq"
+    ]
+  },
+  "score": {
+    "product_fit": 12.0,
+    "team_execution": 7.5,
+    "market_timing": 10.0,
+    "traction": 3.0,
+    "differentiation": 2.0,
+    "total": 34.5
+  },
+  "confidence": "high",
+  "flags": []
+}

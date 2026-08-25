@@ -1,0 +1,46 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "AI code generator with 93% validation success (Python)",
+  "source_url": "https://news.ycombinator.com/item?id=45623993",
+  "team": {
+    "summary": "The team consists of a single founder, tekodu. There is no information provided about the founder's background, technical expertise, or prior startup experience, making it difficult to assess team strength or execution capability.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=45623993"
+    ]
+  },
+  "product": {
+    "summary": "The product is an AI engine that generates production-ready Python code from plain English descriptions. It claims to handle diverse tasks (e.g., invoice matching, JWT API, web scraper) with a 93% success rate in validation tests. However, it is a general-purpose code generator and does not automate a single, named SMB workflow end-to-end, nor does it act as an agent within a specific workflow.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=45623993"
+    ]
+  },
+  "market": {
+    "summary": "The product targets developers seeking to generate Python tools, not SMBs directly. While some generated examples (e.g., invoice matching) are relevant to SMB workflows, the offering is not positioned as a workflow-specific automation tool for SMBs. There is no evidence of a broad SMB market focus or a 'why now' justification.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=45623993"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear founder background, lack of focus on a specific SMB workflow, and uncertain product-market fit for SMBs. The product may face competition from other code generation tools and may struggle to differentiate or gain traction in the SMB automation space.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=45623993"
+    ]
+  },
+  "differentiation": {
+    "summary": "The product claims a high validation success rate and production-grade code generation, but there is no evidence of proprietary data, unique workflow depth, or defensible integration/distribution advantages. Differentiation appears limited based on available information.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=45623993"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 5.0,
+    "market_timing": 4.0,
+    "traction": 1.5,
+    "differentiation": 2.0,
+    "total": 18.5
+  },
+  "confidence": "high",
+  "flags": []
+}

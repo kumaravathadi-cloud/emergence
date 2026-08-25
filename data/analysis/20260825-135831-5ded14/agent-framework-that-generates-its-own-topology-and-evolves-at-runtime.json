@@ -1,0 +1,48 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-135831-5ded14",
+  "candidate_name": "Agent framework that generates its own topology and evolves at runtime",
+  "source_url": "https://news.ycombinator.com/item?id=46979781",
+  "team": {
+    "summary": "The founder, Vincent Jiang, has 4 years of experience building ERP automation for construction, specifically in PO/invoice reconciliation, and has worked with real enterprise customers. However, there is no additional information about other team members or broader startup/technical experience beyond Vincent's background.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46979781"
+    ]
+  },
+  "product": {
+    "summary": "The product is an agent framework designed to generate its own topology and evolve at runtime, aiming to overcome limitations of existing agent frameworks (like LangChain, AutoGPT) in real business automation. It emphasizes asynchronous, headless automation, reliability through synthetic SLAs, and biologically-inspired architectural primitives. However, it is a framework, not a verticalized, workflow-specific agent, and does not appear to automate a single named SMB workflow end-to-end out of the box.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46979781",
+      "https://github.com/adenhq/hive/blob/main/README.md"
+    ]
+  },
+  "market": {
+    "summary": "The founder's prior experience was in ERP automation for construction, a workflow relevant to many SMBs. However, the current product is a general agent framework, not a packaged solution targeting a specific SMB workflow or vertical. There is no direct evidence that SMBs are the primary buyers of this framework.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46979781"
+    ]
+  },
+  "risks": {
+    "summary": "The main risk is that the product is a general-purpose agent framework rather than a workflow-specific agent for SMBs, which does not align with the thesis. There is also limited information on current adoption, go-to-market, or evidence of SMB buyer traction.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46979781"
+    ]
+  },
+  "differentiation": {
+    "summary": "Differentiation is based on technical architecture: dynamic topology generation, OODA loop control, synthetic SLAs, and biologically-inspired primitives. This is distinct from existing frameworks, but defensibility in terms of proprietary data, deep workflow integration, or distribution is not established.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46979781",
+      "https://github.com/adenhq/hive/blob/main/README.md"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 15.0,
+    "market_timing": 6.0,
+    "traction": 10.5,
+    "differentiation": 6.0,
+    "total": 43.5
+  },
+  "confidence": "high",
+  "flags": []
+}
