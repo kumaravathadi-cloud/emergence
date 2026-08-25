@@ -1,0 +1,354 @@
+[
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Marble",
+    "site": "https://joinmarble.ai/",
+    "one_liner": "The autonomous back-of-house for restaurants.",
+    "founders": [
+      "Aakar Khanna",
+      "Arjun Chaliha"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Summer 2026"
+    },
+    "source_url": "https://www.ycombinator.com/companies/joinmarble",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Zolvo",
+    "site": "https://zolvo.com/",
+    "one_liner": "AI Back-Office Automation for Commercial Lenders",
+    "founders": [
+      "Isabela Rodriguez",
+      "Tony Montes"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Spring 2026"
+    },
+    "source_url": "https://www.ycombinator.com/companies/zolvo",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Cifrato",
+    "site": "https://cifrato.ai",
+    "one_liner": "AI Accountant for Accounting Firms",
+    "founders": [
+      "Juan Pisco"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2025"
+    },
+    "source_url": "https://www.ycombinator.com/companies/cifrato",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "haddock",
+    "site": "https://haddock.app",
+    "one_liner": "AI agents to run restaurant operations",
+    "founders": [
+      "Arnau Navarro",
+      "Pol Rosell"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2022"
+    },
+    "source_url": "https://www.ycombinator.com/companies/haddock",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Supadock",
+    "site": "https://getsupadock.com",
+    "one_liner": "AI workers for logistics operations",
+    "founders": [
+      "Addwiteey Chrungoo"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2021"
+    },
+    "source_url": "https://www.ycombinator.com/companies/supadock",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Integration Labs",
+    "site": "https://www.integrationlabs.co",
+    "one_liner": "The Unified API for Business Financial Data",
+    "founders": [
+      "Ishwar Gogineni",
+      "Parth Shah",
+      "Sidharth Rao"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Summer 2022"
+    },
+    "source_url": "https://www.ycombinator.com/companies/integration-labs",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Chipax",
+    "site": "https://www.chipax.com",
+    "one_liner": "Quickbooks for SMBs in Latam",
+    "founders": [
+      "Antonio Correa",
+      "Fran\u00e7ois Gueneau de Mussy",
+      "Felipe Urz\u00faa"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Summer 2021"
+    },
+    "source_url": "https://www.ycombinator.com/companies/chipax",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "qomplement",
+    "site": "https://qomplement.com",
+    "one_liner": "The Agentic ERP for supply chain operations",
+    "founders": [
+      "Kerim Taray",
+      "Andres Garza"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Spring 2026"
+    },
+    "source_url": "https://www.ycombinator.com/companies/qomplement",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "yBANQ",
+    "site": "https://ybanq.com",
+    "one_liner": "yBANQ is building a Bill.com for India to simplify collections and\u2026",
+    "founders": [
+      "Abhishek Ayyagari",
+      "Ganesh Mallya",
+      "Ahamed Shah Wahidullah"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2020"
+    },
+    "source_url": "https://www.ycombinator.com/companies/ybanq",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Agent framework that generates its own topology and evolves at runtime",
+    "site": "https://github.com/adenhq/hive/blob/main/README.md",
+    "one_liner": "Hi HN,<p>I\u2019m Vincent from Aden. We spent 4 years building ERP automation for construction (PO&#x2F;invoice reconciliation). We had real enterprise customers but hit a technical wall: Chatbots aren&#x27;t for real work. Accountants don&#x27;t want to chat; they want the ledger reconciled while they sleep. They want services, not tools.<p>Existing agent frameworks (LangChain, AutoGPT) failed in production - brittle, looping, and unable to handle messy data. General Computer Use (GCU) frameworks were even worse. My reflections:<p>1. The &quot;Toy App&quot; Ceiling &amp; GCU Trap\nMost frameworks assume synchronous sessions. If the tab closes, state is lost. You can&#x27;t fit 2 weeks of asynchronous business state into an ephemeral chat session.<p>The GCU hype (agents &quot;looking&quot; at screens) is skeuomorphic. It\u2019s slow (screenshots), expensive (tokens), and fragile (UI changes = crash). It mimics human constraints rather than leveraging machine speed. Real automation should be headless.<p>2. Inversion of Control: OODA &gt; DAGs\nTraditional DAGs are deterministic; if a step fails, the program crashes. In the AI era, the Goal is the law, not the Code. We use an OODA loop to manage stochastic behavior:<p>- Observe: Exceptions are observations (FileNotFound = new state), not crashes.<p>- Orient: Adjust strategy based on Memory and - Traits.<p>- Decide: Generate new code at runtime.<p>- Act: Execute.<p>The topology shouldn&#x27;t be hardcoded; it should emerge from the task&#x27;s entropy.<p>3. Reliability: The &quot;Synthetic&quot; SLA\nYou can&#x27;t guarantee one inference ($k=1$) is correct, but you can guarantee a System of Inference ($k=n$) converges on correctness. Reliability is now a function of compute budget. By wrapping an 80% accurate model in a &quot;Best-of-3&quot; verification loop, we mathematically force the error rate down\u2014trading Latency&#x2F;Tokens for Certainty.<p>4. Biology &amp; Psychology in Code\n&quot;Hard Logic&quot; can&#x27;t solve &quot;Soft Problems.&quot; We map cognition to architectural primitives:\nHomeostasis: Solving &quot;Perseveration&quot; (infinite loops) via a &quot;Stress&quot; metric. If an action fails 3x, &quot;neuroplasticity&quot; drops, forcing a strategy shift.\nTraits: Personality as a constraint. &quot;High Conscientiousness&quot; increases verification; &quot;High Risk&quot; executes DROP TABLE without asking.<p>For the industry, we need engineers interested in the intersection of biology, psychology, and distributed systems to help us move beyond brittle scripts. It&#x27;d be great to have you roasting my codes and sharing feedback.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;adenhq&#x2F;hive\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;adenhq&#x2F;hive</a>",
+    "founders": [
+      "vincentjiang"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 107
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46979781",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Custom Pricing Units in Flexprice (price in credits, bill in USD)",
+    "site": "https://flexprice.io/",
+    "one_liner": "Hi HN, working in the monetization field, we kept seeing the same problem.<p>Product teams want to price in credits or tokens.\nFinance wants clean USD accounting.\nEngineering ends up stitching conversion logic across services, and over time rounding errors, inconsistent invoices, and reconciliation headaches creep in.<p>So we added Custom Pricing Units to Flexprice!<p>You can now define your own unit (e.g. CRD), attach a conversion rate to a base currency (like USD), and use that unit across plans, recurring charges, usage pricing, and wallets. Customers see and are charged in credits. Flexprice computes, stores, and invoices in the base currency.<p>Conversion is deterministic. Rounding only happens at invoice calculation. There\u2019s a single source of truth for the rate.\nExample: 1 credit = 0.01 USD \u2192 100 credits = 1 USD.<p>This has been especially useful for teams selling tokens, running credit wallets, or operating in multiple regions while keeping accounting in one currency.<p>Docs and API examples are live: <a href=\"https:&#x2F;&#x2F;docs.flexprice.io&#x2F;docs&#x2F;product-catalogue&#x2F;custom-pricing&#x2F;pricing-unit\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.flexprice.io&#x2F;docs&#x2F;product-catalogue&#x2F;custom-pric...</a>\nHappy to answer questions on how we model conversion and precision internally or join us here: http:&#x2F;&#x2F;\nbit.ly&#x2F;4huvkDm",
+    "founders": [
+      "ShreyaChaurasia"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 5
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46991901",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "A commitment model for usage billing",
+    "site": "https://twitter.com/tryflexprice/status/2009226683849773430",
+    "one_liner": "Hi HN,<p>One pattern we kept seeing while working on usage-based billing was commitment-style contracts.<p>Teams would sell deals with a minimum monthly spend, charge real usage against it, apply higher rates for overages, and then manually true-up shortfalls at invoicing. Most billing systems don\u2019t model this cleanly, so it ends up as custom code or finance-side adjustments.<p>We added first-class support for commitments in Flexprice.io :<p>\u2022 Define a minimum spend per billing period\n\u2022 Apply an overage multiplier when usage exceeds it\n\u2022 Automatically true-up shortfalls if usage comes in below commitment<p>All of this is handled at the subscription and invoice level without manual reconciliation.<p>Curious how others here have implemented commitments or minimum guarantees in usage-based systems, and what edge cases we might be missing.<p>If you would like to jump in-depth, we also have a open-source community and would love to see you there: <a href=\"http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm\" rel=\"nofollow\">http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm</a><p>Happy to answer questions.",
+    "founders": [
+      "sudeepsd__"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46549756",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "AI code generator with 93% validation success (Python)",
+    "site": "https://bauform-engine.fly.dev/",
+    "one_liner": "I spent 3 months building and validating an AI engine that generates production-ready Python code. Just finished comprehensive testing: 14&#x2F;15 diverse specs worked first try (93% success).<p>What it does:\nGenerates working Python tools from plain English descriptions. Not toy code - actual production-grade with security, error handling, and logging.<p>Validation results:\n\u2022 15 diverse tests (data processing, APIs, business logic, file handling)\n\u2022 14 passed completely (93%)\n\u2022 1 failed: real-time streaming processor with 12+ requirements (distributed systems complexity)\n\u2022 Average: 1.5 iterations to production-ready<p>Example generations that worked:\n\u2022 Invoice matching system (18K chars, fuzzy matching, reconciliation)\n\u2022 JWT authentication API (Flask + SQLite + bcrypt)\n\u2022 Web scraper with ethical safeguards (robots.txt, rate limiting)\n\u2022 Multi-API integration (OpenWeather + Twilio)<p>What struggled:\n\u2022 Extremely complex specs (10+ independent requirements)<p>Try it: <a href=\"https:&#x2F;&#x2F;bauform-engine.fly.dev\" rel=\"nofollow\">https:&#x2F;&#x2F;bauform-engine.fly.dev</a><p>Feedback form: <a href=\"https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;e&#x2F;1FAIpQLSfH_4s_pheVTePcaIt0k94J_pLBuHDF8EUb8dWVzjTB8mRzYA&#x2F;viewform\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;e&#x2F;1FAIpQLSfH_4s_pheVTePcaIt0...</a><p>Looking for honest feedback from developers - what works, what breaks, what would make this useful for your workflow.<p>Beta stage. Python only (for now). Best for focused tools with clear requirements.",
+    "founders": [
+      "tekodu"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=45623993",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "StripeMeter",
+    "site": "https://github.com/geminimir/stripemeter",
+    "one_liner": "pre-invoice parity for Stripe usage billing",
+    "founders": [
+      "coryli"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=45261999",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "StripeMeter",
+    "site": "https://github.com/geminimir/stripemeter",
+    "one_liner": "pre-invoice parity for Stripe usage billing",
+    "founders": [
+      "coryli"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=45226683",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "VisiGrid CLI",
+    "site": "https://visigrid.app",
+    "one_liner": "Git-diff for financial reconciliation",
+    "founders": [
+      "rdoneill"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 1
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46873757",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Nomod payment integrated into usage-based billing stack",
+    "site": "http://Link:admin.flexprice.io",
+    "one_liner": "Hi HN,<p>We just shipped a Nomod integration in Flexprice.\nFor context, flexprice is an open-source billing system that handles invoices, usage, and credit wallets. One gap we wanted to close was supporting region-specific payment providers without breaking billing state.<p>With this integration:\n- Invoices finalized in Flexprice can be synced to Nomod\n- A hosted Nomod payment link is generated for the invoice\n- Payment status updates flow back into Flexprice\n- Invoices and payment records stay in sync\n- Credits (if applicable) are applied only after payment succeeds<p>This keeps billing logic simple and avoids reconciliation issues later. There&#x27;s no demo yet, but docs are live here: <a href=\"https:&#x2F;&#x2F;docs.flexprice.io&#x2F;integrations&#x2F;nomod&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.flexprice.io&#x2F;integrations&#x2F;nomod&#x2F;</a><p>Happy to answer questions or hear feedback from folks who&#x27;ve built billing or payment integrations before or feel free to join our open-source community if that interests you : <a href=\"http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm\" rel=\"nofollow\">http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm</a>",
+    "founders": [
+      "ShreyaChaurasia"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 9
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46812105",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "Checkout Flow for credit-based billing",
+    "site": "https://flexprice.io/",
+    "one_liner": "Hi HN,<p>We\u2019ve been working on credit-based billing systems, and one recurring issue we kept running into was how messy credit purchases become once real payments are involved.<p>Credits are easy when they\u2019re manual or promotional. Things get complicated when customers need to: \n- buy credits through a proper checkout, \n- receive an invoice, \n- complete payment asynchronously,\nand only then have credits become usable.<p>Most teams end up stitching this together manually:\nInvoices in one system, payment links in another, wallet balances updated via scripts or cron jobs, and reconciliation handled later.<p>We built a checkout flow where credit top-ups, invoices, payment links, and wallet state transitions are part of a single workflow:\n- an invoice is generated,\n- a payment link is created automatically,\n- credits stay on hold until payment succeeds,\nand are applied immediately once the payment clears.<p>Docs here if you want to see how the flow works end-to-end: <a href=\"https:&#x2F;&#x2F;docs.flexprice.io&#x2F;docs&#x2F;wallet&#x2F;top-up-wallet\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.flexprice.io&#x2F;docs&#x2F;wallet&#x2F;top-up-wallet</a><p>Would love feedback from folks who\u2019ve built usage-based or credit-driven billing, or thoughts on edge cases we should be thinking about.<p>Happy to answer questions or feel free to join our community : <a href=\"http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm\" rel=\"nofollow\">http:&#x2F;&#x2F;bit.ly&#x2F;4huvkDm</a>",
+    "founders": [
+      "ShreyaChaurasia"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 4
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46723702",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-135831-5ded14",
+    "name": "YourFinanceWORKS",
+    "site": "https://www.yourfinanceworks.com",
+    "one_liner": "Open-source financial management with AI",
+    "founders": [
+      "snowsky"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 1
+    },
+    "source_url": "https://news.ycombinator.com/item?id=47212707",
+    "low_data": false,
+    "flags": []
+  }
+]

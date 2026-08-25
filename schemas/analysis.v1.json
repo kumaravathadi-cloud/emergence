@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://emergence.local/schemas/analysis.v1.json",
+  "title": "Analysis",
+  "description": "Analysis stage output: one candidate scored against thesis.md, every claim cited.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "run_id",
+    "candidate_name",
+    "source_url",
+    "team",
+    "product",
+    "market",
+    "risks",
+    "differentiation",
+    "score",
+    "confidence",
+    "flags"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "citedSection": {
+      "type": "object",
+      "required": ["summary", "citations"],
+      "additionalProperties": false,
+      "properties": {
+        "summary": { "type": "string", "minLength": 1 },
+        "citations": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Source URLs backing this section's claims."
+        }
+      }
+    }
+  },
+  "properties": {
+    "schema_version": { "const": "1" },
+    "run_id": { "type": "string", "minLength": 1 },
+    "candidate_name": { "type": "string", "minLength": 1 },
+    "source_url": { "type": "string" },
+    "team": { "$ref": "#/definitions/citedSection" },
+    "product": { "$ref": "#/definitions/citedSection" },
+    "market": { "$ref": "#/definitions/citedSection" },
+    "risks": { "$ref": "#/definitions/citedSection" },
+    "differentiation": { "$ref": "#/definitions/citedSection" },
+    "score": {
+      "type": "object",
+      "description": "Rubric breakdown per thesis.md, weights: product_fit 30, team_execution 25, market_timing 20, traction 15, differentiation 10.",
+      "required": [
+        "product_fit",
+        "team_execution",
+        "market_timing",
+        "traction",
+        "differentiation",
+        "total"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "product_fit": { "type": "number", "minimum": 0, "maximum": 30 },
+        "team_execution": { "type": "number", "minimum": 0, "maximum": 25 },
+        "market_timing": { "type": "number", "minimum": 0, "maximum": 20 },
+        "traction": { "type": "number", "minimum": 0, "maximum": 15 },
+        "differentiation": { "type": "number", "minimum": 0, "maximum": 10 },
+        "total": { "type": "number", "minimum": 0, "maximum": 100 }
+      }
+    },
+    "confidence": {
+      "enum": ["high", "low"],
+      "description": "low when input data was too thin for a confident score (see low_data on the candidate)."
+    },
+    "flags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Reasons for low confidence, e.g. 'thin_source_data', 'validation_retry_failed'."
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://emergence.local/schemas/candidate.v1.json",
+  "title": "Candidate",
+  "description": "Sourcing stage output: one normalized candidate from Product Hunt or Hacker News.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "run_id",
+    "name",
+    "site",
+    "one_liner",
+    "founders",
+    "signal",
+    "source_url",
+    "low_data",
+    "flags"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": "1" },
+    "run_id": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "site": {
+      "type": ["string", "null"],
+      "description": "Product's own website/landing page, if known."
+    },
+    "one_liner": { "type": ["string", "null"] },
+    "founders": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "signal": {
+      "description": "The single traction signal captured for this candidate.",
+      "type": "object",
+      "required": ["source", "type", "value"],
+      "additionalProperties": false,
+      "properties": {
+        "source": { "enum": ["yc", "hacker_news"] },
+        "type": {
+          "type": "string",
+          "description": "e.g. 'batch' (YC recency signal), 'points', 'comments'"
+        },
+        "value": { "type": ["number", "string"] }
+      }
+    },
+    "source_url": {
+      "type": "string",
+      "description": "URL of the listing/post this candidate was sourced from."
+    },
+    "low_data": {
+      "type": "boolean",
+      "description": "True when required fields were thin/missing and had to be flagged."
+    },
+    "flags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Reasons for low_data, e.g. 'missing_founders', 'missing_one_liner'."
+    }
+  }
+}
