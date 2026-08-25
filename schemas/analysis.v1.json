@@ -12,6 +12,7 @@
     "team",
     "product",
     "market",
+    "traction",
     "risks",
     "differentiation",
     "score",
@@ -42,6 +43,7 @@
     "team": { "$ref": "#/definitions/citedSection" },
     "product": { "$ref": "#/definitions/citedSection" },
     "market": { "$ref": "#/definitions/citedSection" },
+    "traction": { "$ref": "#/definitions/citedSection" },
     "risks": { "$ref": "#/definitions/citedSection" },
     "differentiation": { "$ref": "#/definitions/citedSection" },
     "score": {

@@ -4,42 +4,48 @@
   "candidate_name": "Zolvo",
   "source_url": "https://www.ycombinator.com/companies/zolvo",
   "team": {
-    "summary": "The founding team consists of Isabela Rodriguez and Tony Montes. No further information about their backgrounds, technical expertise, or relevant domain experience is provided in the available data.",
+    "summary": "The founding team consists of Isabela Rodriguez and Tony Montes. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
     "citations": [
       "https://www.ycombinator.com/companies/zolvo"
     ]
   },
   "product": {
-    "summary": "Zolvo offers 'AI Back-Office Automation for Commercial Lenders.' This suggests a focus on automating back-office workflows specific to commercial lending. However, the data does not specify which exact workflow(s) are automated or whether the product acts as an agent that takes actions and makes decisions end-to-end within those workflows.",
+    "summary": "Zolvo offers 'AI Back-Office Automation for Commercial Lenders.' While this suggests automation of back-office workflows in the commercial lending sector, the data does not specify which workflow(s) are automated, nor does it clarify if the product acts as an agent that takes actions and makes decisions end-to-end.",
     "citations": [
       "https://www.ycombinator.com/companies/zolvo"
     ]
   },
   "market": {
-    "summary": "The product targets commercial lenders, which may include SMBs, but the data does not clarify whether SMBs are the primary buyer or how broadly applicable the workflow is across the SMB segment.",
+    "summary": "The product targets commercial lenders, which may include SMBs, but the data does not explicitly state that SMBs are the primary buyer. The workflow relevance and prevalence across SMBs cannot be fully determined from the available information.",
+    "citations": [
+      "https://www.ycombinator.com/companies/zolvo"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is that Zolvo is part of the YC Spring 2026 batch. No additional traction, usage, or community engagement data is provided.",
     "citations": [
       "https://www.ycombinator.com/companies/zolvo"
     ]
   },
   "risks": {
-    "summary": "Key risks include lack of clarity on the specific workflow automated, whether the solution is agentic, and whether the primary market is SMBs. There is also no information on traction, customer adoption, or founder expertise.",
+    "summary": "Key risks include lack of clarity on the specific workflow automated, whether the solution is agentic, and whether SMBs are the primary customer. There is also no information on team experience or market traction beyond YC participation.",
     "citations": [
       "https://www.ycombinator.com/companies/zolvo"
     ]
   },
   "differentiation": {
-    "summary": "There is no information provided about Zolvo's defensible edge, such as proprietary data, workflow depth, integrations, or distribution advantages.",
+    "summary": "There is no information provided about proprietary technology, workflow depth, integrations, or other defensible differentiation.",
     "citations": [
       "https://www.ycombinator.com/companies/zolvo"
     ]
   },
   "score": {
-    "product_fit": 12.0,
-    "team_execution": 7.5,
-    "market_timing": 8.0,
-    "traction": 3.0,
-    "differentiation": 2.0,
-    "total": 32.5
+    "product_fit": 9.0,
+    "team_execution": 5.0,
+    "market_timing": 6.0,
+    "traction": 4.5,
+    "differentiation": 1.0,
+    "total": 25.5
   },
   "confidence": "high",
   "flags": []

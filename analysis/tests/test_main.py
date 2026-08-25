@@ -35,6 +35,10 @@ GOOD_RAW = {
         "citations": ["https://acme.ai"],
     },
     "market": {"summary": "Common SMB workflow.", "citations": ["https://acme.ai"]},
+    "traction": {
+        "summary": "Only traction evidence is YC batch recency (Summer 2026).",
+        "citations": ["https://www.ycombinator.com/companies/acme-ai"],
+    },
     "risks": {
         "summary": "Early stage, unproven retention.",
         "citations": ["https://www.ycombinator.com/companies/acme-ai"],

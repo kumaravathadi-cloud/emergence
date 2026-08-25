@@ -4,31 +4,37 @@
   "candidate_name": "haddock",
   "source_url": "https://www.ycombinator.com/companies/haddock",
   "team": {
-    "summary": "The founding team consists of Arnau Navarro and Pol Rosell. No further information about their backgrounds, domain expertise, or technical experience is provided in the available data.",
+    "summary": "The founders are Arnau Navarro and Pol Rosell. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
     "citations": [
       "https://www.ycombinator.com/companies/haddock"
     ]
   },
   "product": {
-    "summary": "Haddock offers 'AI agents to run restaurant operations.' While this suggests automation of restaurant workflows, the data does not specify which exact workflows are automated, nor does it confirm end-to-end ownership or agentic action within a named workflow.",
+    "summary": "Haddock offers 'AI agents to run restaurant operations.' While this suggests automation and agentic behavior for restaurant workflows, the data does not specify which restaurant operations are automated or whether a single, named workflow is fully owned end-to-end.",
     "citations": [
       "https://www.ycombinator.com/companies/haddock"
     ]
   },
   "market": {
-    "summary": "The product targets restaurant operations, which are common among SMBs in the food service sector. However, there is no detail on the breadth of adoption or specific market timing factors.",
+    "summary": "The product targets restaurant operations, which are common among SMBs in the food service sector. However, the data does not specify the breadth of workflow coverage or provide a 'why now' rationale.",
+    "citations": [
+      "https://www.ycombinator.com/companies/haddock"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is participation in YC Winter 2022. No additional usage, funding, or community engagement data is provided.",
     "citations": [
       "https://www.ycombinator.com/companies/haddock"
     ]
   },
   "risks": {
-    "summary": "Key risks include lack of detail on the specific workflows automated, the depth of automation, and whether the solution is agentic as defined by the thesis. There is also no information on traction or team background.",
+    "summary": "Key risks include lack of detail on the specific workflow(s) automated, uncertainty about agentic depth, and no information on founder domain expertise or current traction beyond YC participation.",
     "citations": [
       "https://www.ycombinator.com/companies/haddock"
     ]
   },
   "differentiation": {
-    "summary": "There is no information provided about proprietary technology, data, integrations, or other defensible differentiation.",
+    "summary": "There is no information provided about proprietary technology, unique integrations, or defensible advantages. Differentiation cannot be assessed from the available data.",
     "citations": [
       "https://www.ycombinator.com/companies/haddock"
     ]

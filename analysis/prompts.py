@@ -24,6 +24,7 @@ _RESPONSE_SHAPE = {
     "team": {"summary": "string", "citations": ["string, a URL from the candidate data"]},
     "product": {"summary": "string", "citations": ["string"]},
     "market": {"summary": "string", "citations": ["string"]},
+    "traction": {"summary": "string", "citations": ["string"]},
     "risks": {"summary": "string", "citations": ["string"]},
     "differentiation": {"summary": "string", "citations": ["string"]},
     "fit_scores": {
@@ -63,6 +64,9 @@ Return a json object with exactly this shape:
 
 Rules:
 - Every citation must be a URL taken from the candidate data above (site or source_url).
+- The traction section must be grounded in the candidate's `signal` field (its YC
+  batch recency or its HN points) — say plainly if that's the only traction evidence
+  available, rather than inferring traction from unrelated data.
 - fit_scores are 0.0-1.0 judgments of how well the candidate fits each thesis rubric
   category, not point totals — score.py applies the point weights separately.
 - If candidate data is too thin to judge a category confidently, still return a score,

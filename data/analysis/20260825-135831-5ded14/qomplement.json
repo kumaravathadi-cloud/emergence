@@ -4,42 +4,48 @@
   "candidate_name": "qomplement",
   "source_url": "https://www.ycombinator.com/companies/qomplement",
   "team": {
-    "summary": "The founding team consists of Kerim Taray and Andres Garza. No additional information about their backgrounds, technical expertise, or prior experience is provided in the available data, so it is not possible to assess domain relevance or execution track record.",
+    "summary": "The founding team consists of Kerim Taray and Andres Garza. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data, so it is not possible to assess domain relevance or execution capability beyond their status as founders.",
     "citations": [
       "https://www.ycombinator.com/companies/qomplement"
     ]
   },
   "product": {
-    "summary": "Qomplement is described as 'The Agentic ERP for supply chain operations.' This suggests a focus on automating supply chain workflows, potentially with agentic capabilities. However, the data does not specify which exact workflow(s) are automated or the depth of end-to-end ownership, so the fit to the thesis is promising but not fully confirmed.",
+    "summary": "Qomplement describes itself as 'The Agentic ERP for supply chain operations.' This suggests a focus on automating supply chain workflows within an ERP context, with an agentic approach. However, the data does not specify which exact workflow(s) are automated or whether the product fully owns a named, repeatable SMB workflow end-to-end.",
     "citations": [
       "https://www.ycombinator.com/companies/qomplement"
     ]
   },
   "market": {
-    "summary": "The product targets supply chain operations, which are common and critical workflows for many SMBs. However, the data does not specify the size or type of SMBs targeted, nor does it provide a 'why now' rationale such as new technology or regulatory drivers.",
+    "summary": "The product targets supply chain operations, which are common across many SMBs. However, the data does not specify whether SMBs are the primary buyer or provide a 'why now' rationale (such as new technology, regulation, or market shift).",
+    "citations": [
+      "https://www.ycombinator.com/companies/qomplement"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is that Qomplement is part of the YC Spring 2026 batch. No additional usage, funding, or community engagement data is provided.",
     "citations": [
       "https://www.ycombinator.com/companies/qomplement"
     ]
   },
   "risks": {
-    "summary": "Key risks include lack of detail on the specific workflow automated, the agentic depth of the product, and the backgrounds of the founders. Without more information, there is uncertainty about product fit, execution ability, and market timing.",
+    "summary": "Key risks include lack of detail on the specific workflow automated, whether the product is truly agentic, and absence of information on team expertise and market adoption. The data is insufficient to confirm fit to the thesis beyond high-level positioning.",
     "citations": [
       "https://www.ycombinator.com/companies/qomplement"
     ]
   },
   "differentiation": {
-    "summary": "The claim of being an 'Agentic ERP' hints at workflow depth and possible differentiation through automation, but there is no information on proprietary technology, data, or unique integrations. Differentiation cannot be confidently assessed from the available data.",
+    "summary": "There is no information provided about proprietary technology, workflow depth, integrations, or distribution advantages. Differentiation cannot be assessed from the available data.",
     "citations": [
       "https://www.ycombinator.com/companies/qomplement"
     ]
   },
   "score": {
-    "product_fit": 21.0,
-    "team_execution": 10.0,
-    "market_timing": 12.0,
-    "traction": 7.5,
-    "differentiation": 4.0,
-    "total": 54.5
+    "product_fit": 15.0,
+    "team_execution": 7.5,
+    "market_timing": 10.0,
+    "traction": 4.5,
+    "differentiation": 2.0,
+    "total": 39.0
   },
   "confidence": "high",
   "flags": []

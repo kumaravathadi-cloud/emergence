@@ -4,31 +4,37 @@
   "candidate_name": "Marble",
   "source_url": "https://www.ycombinator.com/companies/joinmarble",
   "team": {
-    "summary": "The founding team consists of Aakar Khanna and Arjun Chaliha. No further information on their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "summary": "The founding team consists of Aakar Khanna and Arjun Chaliha. No additional information about their backgrounds, technical expertise, or prior experience is provided in the available data, so it is not possible to assess domain or technical fit beyond their names.",
     "citations": [
       "https://www.ycombinator.com/companies/joinmarble"
     ]
   },
   "product": {
-    "summary": "Marble is described as 'the autonomous back-of-house for restaurants.' This suggests a focus on automating back-of-house operations for restaurant SMBs, potentially as an agentic solution. However, the specific workflow(s) automated and the degree of end-to-end ownership are not detailed in the available data.",
+    "summary": "Marble is described as 'the autonomous back-of-house for restaurants.' This suggests a focus on automating restaurant operations, which is a specific workflow for SMBs in the restaurant sector. However, the data does not specify which back-of-house tasks are automated or whether the product acts as an agent that takes actions and makes decisions end-to-end within a named workflow.",
     "citations": [
       "https://www.ycombinator.com/companies/joinmarble"
     ]
   },
   "market": {
-    "summary": "The product targets restaurants, a common SMB segment with widespread back-of-house operational needs. The data does not specify the breadth of workflow applicability or provide a 'why now' rationale.",
+    "summary": "The product targets restaurants, which are a large and well-defined SMB segment. Back-of-house operations are a common need across many restaurants. There is no information provided about market size, adoption, or timing factors such as new technology or regulatory shifts.",
+    "citations": [
+      "https://www.ycombinator.com/companies/joinmarble"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is that Marble is part of the YC Summer 2026 batch. No additional data on usage, funding, or community engagement is provided.",
     "citations": [
       "https://www.ycombinator.com/companies/joinmarble"
     ]
   },
   "risks": {
-    "summary": "Key risks include lack of detail on the specific workflow automated, the agentic nature of the product, and the backgrounds of the founders. Without more information, it is difficult to assess execution capability or product depth.",
+    "summary": "Key risks include lack of detail on the specific workflow(s) automated, whether the solution is agentic, and the team's relevant experience. Without more information, it is difficult to assess execution risk or product depth.",
     "citations": [
       "https://www.ycombinator.com/companies/joinmarble"
     ]
   },
   "differentiation": {
-    "summary": "There is no information provided about proprietary technology, data, integrations, or other defensible advantages.",
+    "summary": "There is no information provided about proprietary technology, data, integrations, or other defensible advantages. Differentiation cannot be assessed from the available data.",
     "citations": [
       "https://www.ycombinator.com/companies/joinmarble"
     ]
@@ -36,10 +42,10 @@
   "score": {
     "product_fit": 15.0,
     "team_execution": 7.5,
-    "market_timing": 10.0,
-    "traction": 4.5,
+    "market_timing": 12.0,
+    "traction": 6.0,
     "differentiation": 2.0,
-    "total": 39.0
+    "total": 42.5
   },
   "confidence": "high",
   "flags": []
