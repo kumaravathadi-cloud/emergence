@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Last Accounting Company",
+  "source_url": "https://www.ycombinator.com/companies/last-accounting-company",
+  "team": {
+    "summary": "The founding team consists of Riki Karjalainen, Sami Laakkonen, Veikko Pere, and Pietari Virkkunen. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "product": {
+    "summary": "Described as an 'Agent-native accounting firm,' the product appears to leverage agent technology for accounting services. However, the data does not specify which accounting workflows are automated, nor does it detail the agent's scope of action or decision-making within those workflows.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "market": {
+    "summary": "The product targets the accounting function, which is a common need among SMBs. However, there is no explicit statement that SMBs are the primary buyer, nor is there a 'why now' justification or market size data provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence is participation in the YC Summer 2026 batch. No additional data on customers, usage, or external engagement is available.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on the specific workflow automated, whether the solution is truly agentic, and absence of evidence regarding team expertise, market demand, or differentiation.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "differentiation": {
+    "summary": "The phrase 'Agent-native' suggests a technology-forward approach, but there is no detail on proprietary technology, workflow depth, or defensible edge.",
+    "citations": [
+      "https://www.ycombinator.com/companies/last-accounting-company"
+    ]
+  },
+  "score": {
+    "product_fit": 12.0,
+    "team_execution": 7.5,
+    "market_timing": 8.0,
+    "traction": 4.5,
+    "differentiation": 2.0,
+    "total": 34.0
+  },
+  "confidence": "high",
+  "flags": []
+}

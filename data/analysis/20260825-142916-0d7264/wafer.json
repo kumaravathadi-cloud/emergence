@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Wafer",
+  "source_url": "https://news.ycombinator.com/item?id=46367310",
+  "team": {
+    "summary": "The only founder listed is 'technoabsurdist', with no further background or domain expertise provided. There is no information on prior startup, executive, or technical experience beyond the implication of technical capability from the product focus.",
+    "citations": [
+      "https://www.wafer.ai/"
+    ]
+  },
+  "product": {
+    "summary": "Wafer offers a tool to profile, inspect assembly, and iterate on CUDA within an IDE. This appears to be a developer productivity tool focused on CUDA development, not a workflow-specific AI agent automating a back-office or ops task for SMBs. The product does not clearly automate a named, repeatable business workflow end-to-end.",
+    "citations": [
+      "https://www.wafer.ai/"
+    ]
+  },
+  "market": {
+    "summary": "The product targets developers working with CUDA, which is a niche technical audience rather than SMBs broadly. There is no evidence that the primary buyer is SMBs or that the workflow is common across many SMBs.",
+    "citations": [
+      "https://www.wafer.ai/"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction signal available is 3 points on Hacker News, which is minimal and does not indicate significant community or customer engagement. No other traction or usage data is present.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46367310"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear fit to the thesis (not focused on SMB workflow automation), limited evidence of market demand, and lack of team background information. The product may be valuable to developers but does not align with the thesis focus.",
+    "citations": [
+      "https://www.wafer.ai/"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is insufficient information to assess defensible differentiation. The product's focus on CUDA development within an IDE may be unique, but no proprietary data, workflow depth, or distribution edge is described.",
+    "citations": [
+      "https://www.wafer.ai/"
+    ]
+  },
+  "score": {
+    "product_fit": 3.0,
+    "team_execution": 5.0,
+    "market_timing": 2.0,
+    "traction": 1.5,
+    "differentiation": 2.0,
+    "total": 13.5
+  },
+  "confidence": "high",
+  "flags": []
+}

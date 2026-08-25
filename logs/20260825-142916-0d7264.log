@@ -1,0 +1,39 @@
+{"ts": "2026-08-25T19:59:18+0530", "stage": "sourcing", "candidate": "Soraban", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:59:19+0530", "stage": "sourcing", "candidate": "Last Accounting Company", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:59:19+0530", "stage": "sourcing", "candidate": "Cranston AI", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:59:20+0530", "stage": "sourcing", "candidate": "LedgerUp", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:59:20+0530", "stage": "sourcing", "candidate": "Coldreach", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Vibooks", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Hail.so", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Recite", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Autonomous Bookkeeping and CFO Agent", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "HTML, CSS and JavaScript in the Terminal", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:21+0530", "stage": "sourcing", "candidate": "Wafer", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:59:27+0530", "stage": "analysis", "candidate": "Soraban", "status": "ok", "score": 37.5}
+{"ts": "2026-08-25T19:59:38+0530", "stage": "analysis", "candidate": "Last Accounting Company", "status": "ok", "score": 34.0}
+{"ts": "2026-08-25T19:59:43+0530", "stage": "analysis", "candidate": "Cranston AI", "status": "ok", "score": 47.5}
+{"ts": "2026-08-25T19:59:48+0530", "stage": "analysis", "candidate": "LedgerUp", "status": "ok", "score": 30.5}
+{"ts": "2026-08-25T19:59:55+0530", "stage": "analysis", "candidate": "Coldreach", "status": "ok", "score": 28.5}
+{"ts": "2026-08-25T20:00:01+0530", "stage": "analysis", "candidate": "Vibooks", "status": "ok", "score": 29.5}
+{"ts": "2026-08-25T20:00:06+0530", "stage": "analysis", "candidate": "Hail.so", "status": "ok", "score": 16.25}
+{"ts": "2026-08-25T20:00:12+0530", "stage": "analysis", "candidate": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper", "status": "ok", "score": 50.5}
+{"ts": "2026-08-25T20:00:19+0530", "stage": "analysis", "candidate": "Recite", "status": "ok", "score": 40.5}
+{"ts": "2026-08-25T20:00:25+0530", "stage": "analysis", "candidate": "Autonomous Bookkeeping and CFO Agent", "status": "ok", "score": 49.5}
+{"ts": "2026-08-25T20:00:32+0530", "stage": "analysis", "candidate": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase", "status": "ok", "score": 17.5}
+{"ts": "2026-08-25T20:00:39+0530", "stage": "analysis", "candidate": "HTML, CSS and JavaScript in the Terminal", "status": "ok", "score": 15.0}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "analysis", "candidate": "Wafer", "status": "ok", "score": 13.5}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Autonomous Bookkeeping and CFO Agent", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Coldreach", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Cranston AI", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Hail.so", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "HTML, CSS and JavaScript in the Terminal", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Last Accounting Company", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "LedgerUp", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Recite", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Soraban", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Vibooks", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T20:00:47+0530", "stage": "recommendation", "candidate": "Wafer", "status": "ok", "call": "Pass"}

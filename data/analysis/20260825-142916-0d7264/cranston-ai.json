@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Cranston AI",
+  "source_url": "https://www.ycombinator.com/companies/cranston-ai",
+  "team": {
+    "summary": "The founding team consists of Max Minsker and Sean O'Bannon. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "product": {
+    "summary": "Cranston AI offers 'AI Tax prep and accounting software for CPA firms.' This suggests a focus on automating tax preparation and accounting workflows, potentially end-to-end, for CPA firms. However, the data does not specify the exact workflow(s) automated or whether the product acts as an agent making decisions and taking actions autonomously.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "market": {
+    "summary": "The product targets CPA firms, which typically serve SMBs or are SMBs themselves. Tax preparation and accounting are common, repeatable workflows across many SMBs, indicating a large addressable market. No explicit 'why now' or timing rationale is provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence is Cranston AI's participation in the YC Fall 2025 batch. No additional usage, funding, or community engagement data is available.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on the founders' relevant experience, unclear product depth (whether it is agentic and owns a full workflow), and no evidence of market adoption or defensibility. The data is insufficient to assess execution or product differentiation.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, unique integrations, or defensible advantages. The product's differentiation cannot be assessed from the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/cranston-ai"
+    ]
+  },
+  "score": {
+    "product_fit": 18.0,
+    "team_execution": 7.5,
+    "market_timing": 14.0,
+    "traction": 6.0,
+    "differentiation": 2.0,
+    "total": 47.5
+  },
+  "confidence": "high",
+  "flags": []
+}

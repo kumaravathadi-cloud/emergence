@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Soraban",
+  "source_url": "https://www.ycombinator.com/companies/soraban",
+  "team": {
+    "summary": "The founding team consists of Enoch Ko. No additional information about the founder's background, technical expertise, or prior experience is provided in the available data, so team and execution fit cannot be fully assessed.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "product": {
+    "summary": "Soraban is described as an 'AI tax workflow platform for accounting firms.' This suggests a focus on automating tax-related workflows, but it is not explicit whether the product fully owns a specific, named workflow end-to-end or acts as an agent making decisions within that workflow. The description is promising but lacks detail to confirm full thesis fit.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "market": {
+    "summary": "The product targets accounting firms, which may include SMBs, but the data does not specify whether SMBs are the primary buyer. Tax workflows are common and recurring in many businesses, suggesting a potentially broad market, but the SMB focus is not confirmed.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is Soraban's participation in YC Winter 2021. No additional usage, funding, or community engagement data is provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on whether the product automates a specific, end-to-end workflow for SMBs, and insufficient information about the founder's relevant experience. The absence of recent traction data also limits confidence in execution and market adoption.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, workflow depth, integrations, or other defensible edges. Differentiation cannot be assessed from the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/soraban"
+    ]
+  },
+  "score": {
+    "product_fit": 15.0,
+    "team_execution": 7.5,
+    "market_timing": 10.0,
+    "traction": 3.0,
+    "differentiation": 2.0,
+    "total": 37.5
+  },
+  "confidence": "high",
+  "flags": []
+}

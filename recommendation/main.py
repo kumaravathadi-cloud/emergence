@@ -28,11 +28,19 @@ def _resolve_input_files(input_arg: str) -> list[Path]:
 
 def run(input_arg: str) -> Path:
     files = _resolve_input_files(input_arg)
-    if not files:
+    input_path = Path(input_arg)
+
+    if input_path.is_dir():
+        # A directory is always a valid run, even with zero files in it (e.g. a
+        # topic that legitimately sourced no candidates) — the run_id comes from
+        # the directory name itself, not from a file that may not exist.
+        run_id = input_path.name
+    elif files:
+        run_id = json.loads(files[0].read_text())["run_id"]
+    else:
         raise FileNotFoundError(f"no analysis files matched: {input_arg}")
 
     analyses = [json.loads(f.read_text()) for f in files]
-    run_id = analyses[0]["run_id"]
     logger = get_run_logger(run_id)
 
     out_dir = MEMOS_DIR / run_id

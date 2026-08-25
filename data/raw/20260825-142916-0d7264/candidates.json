@@ -1,0 +1,241 @@
+[
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Soraban",
+    "site": "https://www.soraban.com",
+    "one_liner": "AI tax workflow platform for accounting firms",
+    "founders": [
+      "Enoch Ko"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2021"
+    },
+    "source_url": "https://www.ycombinator.com/companies/soraban",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Last Accounting Company",
+    "site": "https://lastaccountingcompany.com/",
+    "one_liner": "Agent-native accounting firm.",
+    "founders": [
+      "Riki Karjalainen",
+      "Sami Laakkonen",
+      "Veikko Pere",
+      "Pietari Virkkunen"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Summer 2026"
+    },
+    "source_url": "https://www.ycombinator.com/companies/last-accounting-company",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Cranston AI",
+    "site": "https://www.cranston.ai",
+    "one_liner": "AI Tax prep and accounting software for CPA firms",
+    "founders": [
+      "Max Minsker",
+      "Sean O'Bannon"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Fall 2025"
+    },
+    "source_url": "https://www.ycombinator.com/companies/cranston-ai",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "LedgerUp",
+    "site": "https://ledgerup.ai/",
+    "one_liner": "AI agents that handles complex billing and revenue",
+    "founders": [
+      "Bailey Spell"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Summer 2024"
+    },
+    "source_url": "https://www.ycombinator.com/companies/ledgerup",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Coldreach",
+    "site": "https://coldreach.ai/",
+    "one_liner": "Find the best leads with custom intent signals",
+    "founders": [
+      "Xiaohan Shen",
+      "Hankel Bao"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2023"
+    },
+    "source_url": "https://www.ycombinator.com/companies/coldreach",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Vibooks",
+    "site": "https://vibooks.ai/",
+    "one_liner": "Local-first bookkeeping software built for AI agents",
+    "founders": [
+      "adshao"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=47645019",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Hail.so",
+    "site": "https://hail.so/",
+    "one_liner": "Send and receive emails, calls, SMS via a single MCP/API/CLI",
+    "founders": [
+      "r13i"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 1
+    },
+    "source_url": "https://news.ycombinator.com/item?id=48719453",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+    "site": "https://github.com/kyle-visner/magpie",
+    "one_liner": "Hi HN,<p>Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936</a>)<p>As someone who owns a small, tech business, I have very simple books. somewhere between 10-30 transactions a month, a few depreciation line items, and a couple budgets to monitor. So it always bothered be that I was paying hundreds of dollars per year for software, and maybe a live bookeeper on top of that, just to keep these simple things in order, because I didn&#x27;t have the mental bandwidth to do it myself.<p>So I built Magpie. Magpie is a simple, opinionated CLI that runs on top of Jaybase to allow any popular AI agent to do proper double entry bookkeeping. It enforces standard accounting rules, stores everything securely, and you can ask your AI for just about any kind or report you want.<p>I built it initially for myself, but I figured it&#x27;s something the broader community could use. So give it a try. Simply give Claude Code, Codex, or any other agent the URL and it should be able to set it up for you.",
+    "founders": [
+      "kvisner"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 8
+    },
+    "source_url": "https://news.ycombinator.com/item?id=49091292",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Recite",
+    "site": "https://github.com/rivradev/recite-agent-skill",
+    "one_liner": "I built an Skill and MCP so my AI agent does my bookkeeping",
+    "founders": [
+      "rivradev"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 3
+    },
+    "source_url": "https://news.ycombinator.com/item?id=47248983",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Autonomous Bookkeeping and CFO Agent",
+    "site": "https://www.layernext.ai",
+    "one_liner": "Today we\u2019re launching the first AI CFO that closes your books automatically. Early access now open for 100 founding users \u2192 <a href=\"https:&#x2F;&#x2F;www.layernext.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;www.layernext.ai</a>",
+    "founders": [
+      "bmadduma"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=45840860",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase",
+    "site": "https://github.com/kyle-visner/martin",
+    "one_liner": "Hi HN,<p>In my continued quest to excape App Hell, unify all my business data, and let AI run the the parts of my business that don&#x27;t make money, I&#x27;ve built Martin. Martin is a CLI that let&#x27;s your store all your customer data in Jaybase, which is an append only business facts DB I built (link at the end).  It works along side my bookkeeping CLI, Martin, so now I have a single, AI Native source of truth where I can see the entire customer journey from lead through to customer in one place, not smeared over 3 different apps asking for a subscription.<p>Would love to get your thoughts!<p>Links to Jaybase: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936</a><p>and Magpie:\n<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49091292\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49091292</a>",
+    "founders": [
+      "kvisner"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 2
+    },
+    "source_url": "https://news.ycombinator.com/item?id=49202363",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "HTML, CSS and JavaScript in the Terminal",
+    "site": "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+    "one_liner": "This is a model I\u2019ve been thinking about lately. It demonstrates a pattern that I\u2019m wondering could exist, where terminal applications, BBS-style shared user boards, and other expressions of creativity and sharing are created with web technologies but rendered into the terminal and accessed over SSH.<p>I like that this brings back some kind of old days of the internet feeling and uses web technologies but sidesteps the public World Wide Web, even though it\u2019s still on the internet.<p>You can try it out too right now, and I\u2019m thinking about making the self-hosting specialized applications part a first-class thing. But right now, the project is organized as a browser rendering engine, which I spent eight years on since the end of 2018, most of that without AI, writing all the code myself. And then a terminal renderer, which connects to that browser renderer and takes its output and bookkeeping and renders it into the terminal.<p>And that is designed by me, including the layout algorithm, but AI wrote almost all the code. So I am basically a software designer and AI nudger in that one. My flow is essentially like one agent at a time, and I\u2019ll monitor it, nudge it based on my intuitions if it gets stuck or needs help or whatever, and guide it towards the goal. Plus being the designer and decision maker.<p>AI makes a lot of decisions, but I make the most of them. So that\u2019s just describing my flow of how I created this terminal thing, which is roughly around a year old.<p>And originally it was created with Gemini Pro 3.1, which at that time a year ago was sort of the most capable model for complex tasks. And I literally did it on the free AI Studio web application, just like pasting in code listings. Obviously, with agents now, everything is much smoother as a workflow.<p>This demo has some kind of a cap on it, so let me know if it hits that. It probably won\u2019t, but feel free to tell me. And you can self-host it today. Let me know if you want to do that.<p>This text was dictated by me and then had punctuation and paragraphing added, but the wording was not changed.",
+    "founders": [
+      "keepamovin"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 9
+    },
+    "source_url": "https://news.ycombinator.com/item?id=48894572",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142916-0d7264",
+    "name": "Wafer",
+    "site": "https://www.wafer.ai/",
+    "one_liner": "Profile, inspect assembly, and iterate on CUDA within your IDE",
+    "founders": [
+      "technoabsurdist"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 3
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46367310",
+    "low_data": false,
+    "flags": []
+  }
+]

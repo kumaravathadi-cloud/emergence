@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Coldreach",
+  "source_url": "https://www.ycombinator.com/companies/coldreach",
+  "team": {
+    "summary": "The founding team consists of Xiaohan Shen and Hankel Bao. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "product": {
+    "summary": "Coldreach is described as a tool to 'find the best leads with custom intent signals.' While this suggests a focus on lead generation, it is unclear whether the product automates a specific, named SMB workflow end-to-end or acts as an agent that takes actions and makes decisions within that workflow. The available data does not specify the depth of automation or agentic capabilities.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "market": {
+    "summary": "The product appears to target businesses seeking lead generation, which is a common need among SMBs. However, the data does not explicitly state that SMBs are the primary buyer, nor does it provide information about market size or a 'why now' factor.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "traction": {
+    "summary": "The only available traction evidence is that Coldreach participated in YC Winter 2023. No additional information on user numbers, revenue, or external engagement is provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of clarity on whether the product fully automates a specific workflow as an agent, limited information on the team's relevant experience, and no evidence of traction beyond YC participation. The absence of detail on differentiation or defensibility is also a concern.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, unique data, workflow depth, or defensible differentiation. The product's one-liner does not indicate a clear edge over other lead generation tools.",
+    "citations": [
+      "https://www.ycombinator.com/companies/coldreach"
+    ]
+  },
+  "score": {
+    "product_fit": 9.0,
+    "team_execution": 7.5,
+    "market_timing": 8.0,
+    "traction": 3.0,
+    "differentiation": 1.0,
+    "total": 28.5
+  },
+  "confidence": "high",
+  "flags": []
+}

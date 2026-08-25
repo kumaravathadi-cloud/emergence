@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142916-0d7264",
+  "candidate_name": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase",
+  "source_url": "https://news.ycombinator.com/item?id=49202363",
+  "team": {
+    "summary": "The only founder listed is 'kvisner'. No additional information about the founder's background, technical expertise, or prior experience is provided in the candidate data.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "product": {
+    "summary": "Martin is a CLI tool that allows users to store all customer data in Jaybase, an append-only business facts database. It aims to unify business data and provide an AI-native source of truth for the customer journey, but it is not clear if it automates a specific, named workflow end-to-end or acts as an agent making decisions and taking actions within a workflow. The description emphasizes data unification and visibility rather than workflow automation.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "market": {
+    "summary": "The product is positioned as a solution for business owners seeking to escape 'App Hell' and unify business data, which could be relevant to SMBs. However, there is no explicit evidence that SMBs are the primary target or that the workflow addressed is common across many SMBs. No 'why now' or market timing rationale is provided.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence is the Hacker News post, which has received 2 points. No other traction, usage, funding, or external validation is present in the candidate data.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear product fit to the thesis (lack of evidence for end-to-end workflow automation or agentic behavior), limited information on founder capabilities, and minimal traction. The market focus and defensibility are also not well established from the available data.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "differentiation": {
+    "summary": "The product claims to provide an 'AI Native source of truth' and unify business data via Jaybase, but there is no evidence of proprietary data, workflow depth, or defensible integration/distribution advantage in the candidate data.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49202363"
+    ]
+  },
+  "score": {
+    "product_fit": 6.0,
+    "team_execution": 5.0,
+    "market_timing": 4.0,
+    "traction": 1.5,
+    "differentiation": 1.0,
+    "total": 17.5
+  },
+  "confidence": "high",
+  "flags": []
+}
