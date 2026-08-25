@@ -1,0 +1,133 @@
+[
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "Clerked",
+    "site": "https://clerked.ai",
+    "one_liner": "AI clerks that automate your payables",
+    "founders": [
+      "Evan Meyer",
+      "Sunjeet Chugh"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Fall 2025"
+    },
+    "source_url": "https://www.ycombinator.com/companies/clerked",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "FullSeam",
+    "site": "https://fullseam.com",
+    "one_liner": "AI agents for corporate accounting teams",
+    "founders": [
+      "Thomas Dowling",
+      "Aaron Coppa",
+      "Geoff Segal"
+    ],
+    "signal": {
+      "source": "yc",
+      "type": "batch",
+      "value": "Winter 2026"
+    },
+    "source_url": "https://www.ycombinator.com/companies/fullseam",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "Semantic search engine for finding relevant VCs and angels",
+    "site": "https://graph.one/investor-search",
+    "one_liner": "We built a search engine that matches startup descriptions with investors based on their historical investments. Write your startup description and get a list of investors who&#x27;ve backed similar companies.<p>Technical implementation:<p>- Indexed 9k active VC funds and ~5k angels globally<p>- Fine-tuned a custom embedding model on real-world pairs of investors and companies<p>- Developed an identity resolution system to collate portfolio data across many sources including portfolio websites scraped with a custom AI agent<p>Key features:\n- Search full investor database without signing up<p>- Optional email&#x2F;calendar integration shows 1st&#x2F;2nd degree connections to investors<p>- Results ranked by semantic similarity to historical investments<p>Example query: &quot;B2B SaaS platform for automating accounts payable workflows using OCR and ML&quot;\n\u2192 Returns VCs&#x2F;angels who&#x27;ve invested in similar enterprise automation&#x2F;fintech companies<p>Origin: Built this after struggling with my own seed round. Existing solutions didn&#x27;t solve the core problem: systematically finding ALL relevant investors, not just the obvious ones.<p>Would appreciate feedback on:<p>1. Search result quality&#x2F;relevance<p>2. Additional data points that would be useful<p>3. Performance&#x2F;latency issues if you encounter any<p>Team: danishabdullah, combdn, thelifeofrishi, howes, Hossamhamdy20, Isomorpheus",
+    "founders": [
+      "macieklaskus"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 11
+    },
+    "source_url": "https://news.ycombinator.com/item?id=41927444",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "Show HN (YC S25): Well",
+    "site": null,
+    "one_liner": "MCP AI-Based Collection of Invoices",
+    "founders": [
+      "maxchampoux"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 8
+    },
+    "source_url": "https://news.ycombinator.com/item?id=43871312",
+    "low_data": true,
+    "flags": [
+      "missing_site"
+    ]
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "API that falls back to humans when AI is unsure",
+    "site": "https://sync-ai-11fj.vercel.app/",
+    "one_liner": "Hey HN, I\u2019m the founder of SyncAI.<p>Previously, I was building internal tools for a fintech startup. We tried using GPT-4 Vision and various OCR APIs to automate our Accounts Payable. They worked great for ~90% of documents.<p>The problem was the other 10%: crumpled receipts, handwritten delivery notes, or invoices with weird layouts. In fintech, a 90% success rate isn\u2019t automation; it\u2019s a liability. We spent more time fixing the AI\u2019s hallucinations than if we had just typed it manually.<p>I realized that for high-stakes operations, we didn\u2019t need &quot;better AI&quot;\u2014we needed a Safety Layer.<p>So I built SyncAI. It\u2019s an extraction API that guarantees &quot;Golden Records&quot; (verified data) by routing uncertainty to humans.<p>How it works under the hood:<p>Ingestion: You send a PDF&#x2F;Image via API.<p>Ensemble Extraction: We run it through a mix of OCR and LLMs to extract key fields.<p>Confidence Scoring: We calculate a confidence score for each specific field (not just the whole doc).<p>The Routing Logic:<p>If Confidence &gt; 99% (and passes regex validation) \u2192 Auto-Approve (Returns JSON instantly).<p>If Confidence &lt; 99% \u2192 Routes to HITL (Human-in-the-Loop) queue.<p>Verification: A human verifies only the low-confidence fields in a split-screen UI.<p>Callback: Your webhook receives the strictly typed, verified JSON.<p>We are positioning this for developers building Autonomous Finance Agents who need deterministic inputs.<p>I\u2019ve set up a playground where you can try it without signing up. Upload your messiest invoice&#x2F;receipt to see if we can parse it: <a href=\"https:&#x2F;&#x2F;sync-ai-11fj.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;sync-ai-11fj.vercel.app&#x2F;</a><p>Pricing is usage-based (per doc). The documentation is here: <a href=\"https:&#x2F;&#x2F;sync-ai-11fj.vercel.app&#x2F;docs\" rel=\"nofollow\">https:&#x2F;&#x2F;sync-ai-11fj.vercel.app&#x2F;docs</a>.<p>I\u2019d love to hear your feedback on the routing architecture or how you\u2019re currently handling &quot;AI hallucinations&quot; in production pipelines.",
+    "founders": [
+      "Saurabh_Kumar_"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 5
+    },
+    "source_url": "https://news.ycombinator.com/item?id=46593987",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "Matrix",
+    "site": "https://matrix.eigent.ai/x",
+    "one_liner": "An experimental social simulation of X populated by AI agents",
+    "founders": [
+      "thenomadev"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 1
+    },
+    "source_url": "https://news.ycombinator.com/item?id=43581668",
+    "low_data": false,
+    "flags": []
+  },
+  {
+    "schema_version": "1",
+    "run_id": "20260825-142254-cc3acf",
+    "name": "Soros",
+    "site": "https://www.asksoros.com",
+    "one_liner": "AI for geopolitical macro investing",
+    "founders": [
+      "muggermuch"
+    ],
+    "signal": {
+      "source": "hacker_news",
+      "type": "points",
+      "value": 26
+    },
+    "source_url": "https://news.ycombinator.com/item?id=47418553",
+    "low_data": false,
+    "flags": []
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142254-cc3acf",
+  "candidate_name": "Semantic search engine for finding relevant VCs and angels",
+  "source_url": "https://news.ycombinator.com/item?id=41927444",
+  "team": {
+    "summary": "The team consists of at least one named founder (macieklaskus) and several additional team members listed by handle. There is no detailed information on their backgrounds, domain expertise, or prior startup/technical experience in the provided data.",
+    "citations": [
+      "https://graph.one/investor-search"
+    ]
+  },
+  "product": {
+    "summary": "The product is a semantic search engine that matches startup descriptions with relevant investors based on historical investment data. It indexes a large database of VCs and angels, uses a custom embedding model, and offers features like email/calendar integration and semantic ranking. However, it does not automate a specific SMB back-office workflow or act as an agent within such a workflow; rather, it is a tool for founders to find investors.",
+    "citations": [
+      "https://graph.one/investor-search"
+    ]
+  },
+  "market": {
+    "summary": "The target market is startup founders seeking investors, not SMBs with back-office or operational workflows. The workflow addressed is investor discovery, which is not a repeatable back-office or ops task for SMBs as defined by the thesis.",
+    "citations": [
+      "https://graph.one/investor-search"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence provided is 11 Hacker News points. There is no information on user numbers, revenue, or other adoption metrics.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=41927444"
+    ]
+  },
+  "risks": {
+    "summary": "The main risk is a lack of fit with the investment thesis: the product does not automate a named SMB workflow or act as an agent within such a workflow. Additionally, there is limited information on team background and no evidence of significant traction beyond HN engagement.",
+    "citations": [
+      "https://graph.one/investor-search"
+    ]
+  },
+  "differentiation": {
+    "summary": "Differentiation is based on a custom embedding model, identity resolution system, and a large, indexed investor database. However, there is no evidence of defensibility in workflow depth, proprietary data, or distribution advantage specific to SMB workflow automation.",
+    "citations": [
+      "https://graph.one/investor-search"
+    ]
+  },
+  "score": {
+    "product_fit": 3.0,
+    "team_execution": 7.5,
+    "market_timing": 2.0,
+    "traction": 3.0,
+    "differentiation": 3.0,
+    "total": 18.5
+  },
+  "confidence": "high",
+  "flags": []
+}

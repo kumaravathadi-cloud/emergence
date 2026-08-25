@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142254-cc3acf",
+  "candidate_name": "API that falls back to humans when AI is unsure",
+  "source_url": "https://news.ycombinator.com/item?id=46593987",
+  "team": {
+    "summary": "The founder, Saurabh Kumar, previously built internal tools for a fintech startup, indicating relevant domain and technical experience. However, there is no further detail on the broader team or prior startup/executive experience beyond this single founder's background.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "product": {
+    "summary": "SyncAI offers an API that automates data extraction from financial documents (invoices, receipts) using an ensemble of OCR and LLMs, with a fallback to human verification for low-confidence fields. It aims to deliver 'Golden Records' by guaranteeing verified data, and is positioned as a safety layer for autonomous finance agents. The workflow described is end-to-end for document data extraction, including ingestion, extraction, confidence scoring, human-in-the-loop routing, and verified output.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "market": {
+    "summary": "The product targets developers building autonomous finance agents, with a clear use case in automating accounts payable and document processing in fintech. While the workflow (document data extraction and verification) is common across many SMBs, especially those handling invoices and receipts, the data does not specify the breadth of adoption or market size beyond fintech and developer audiences.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence provided is 5 points on Hacker News. There is no information on customers, revenue, or other usage metrics.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear evidence of SMB adoption beyond fintech/developer audiences, potential challenges in scaling human-in-the-loop operations, and lack of detail on defensibility or competitive landscape. The data does not provide customer validation or proof of workflow ownership in live SMB environments.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "differentiation": {
+    "summary": "Differentiation is based on the hybrid AI/human workflow and field-level confidence scoring with automated routing. However, there is no evidence of proprietary data, unique integrations, or distribution advantages beyond the described routing architecture.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=46593987"
+    ]
+  },
+  "score": {
+    "product_fit": 24.0,
+    "team_execution": 15.0,
+    "market_timing": 12.0,
+    "traction": 3.0,
+    "differentiation": 5.0,
+    "total": 59.0
+  },
+  "confidence": "high",
+  "flags": []
+}

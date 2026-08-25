@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142254-cc3acf",
+  "candidate_name": "Clerked",
+  "source_url": "https://www.ycombinator.com/companies/clerked",
+  "team": {
+    "summary": "The founding team consists of Evan Meyer and Sunjeet Chugh. No further information about their backgrounds, technical expertise, or prior experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "product": {
+    "summary": "Clerked offers 'AI clerks that automate your payables,' suggesting a focus on automating the accounts payable workflow. The description implies end-to-end automation of a specific back-office task, aligning with the thesis requirement for a workflow-specific agent.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "market": {
+    "summary": "Automating payables is a common need across many SMBs, indicating a broad potential market. However, the data does not specify target customer size or verticals, so the SMB focus is inferred from the workflow type.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "traction": {
+    "summary": "The only available traction signal is that Clerked is part of the YC Fall 2025 batch. No additional evidence of user adoption, funding, or external engagement is present.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of information on the founders' relevant experience, absence of detailed product capabilities, and no evidence of traction beyond YC acceptance. It is also unclear how differentiated or defensible the solution is compared to other payables automation tools.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information provided about proprietary technology, unique integrations, or other defensible advantages. Differentiation cannot be assessed from the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/clerked"
+    ]
+  },
+  "score": {
+    "product_fit": 27.0,
+    "team_execution": 7.5,
+    "market_timing": 14.0,
+    "traction": 6.0,
+    "differentiation": 2.0,
+    "total": 56.5
+  },
+  "confidence": "high",
+  "flags": []
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142254-cc3acf",
+  "candidate_name": "FullSeam",
+  "source_url": "https://www.ycombinator.com/companies/fullseam",
+  "team": {
+    "summary": "The founding team consists of Thomas Dowling, Aaron Coppa, and Geoff Segal. No additional information about their backgrounds, technical expertise, or relevant domain experience is provided in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "product": {
+    "summary": "FullSeam offers 'AI agents for corporate accounting teams.' While this suggests automation in accounting workflows, the data does not specify which accounting tasks are automated, nor does it confirm end-to-end ownership of a specific workflow or agentic action beyond general AI assistance.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "market": {
+    "summary": "The product targets corporate accounting teams, which are common in SMBs. However, the data does not explicitly state that SMBs are the primary buyer, nor does it provide evidence of a broad market need or a 'why now' factor.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence available is that FullSeam is part of the YC Winter 2026 batch. No additional usage, funding, or community engagement data is provided.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include lack of detail on the specific workflow automated, uncertainty about agentic capabilities, unclear SMB focus, and no evidence of traction or team domain expertise in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information regarding proprietary technology, workflow depth, integrations, or other defensible advantages in the available data.",
+    "citations": [
+      "https://www.ycombinator.com/companies/fullseam"
+    ]
+  },
+  "score": {
+    "product_fit": 9.0,
+    "team_execution": 7.5,
+    "market_timing": 6.0,
+    "traction": 3.0,
+    "differentiation": 1.0,
+    "total": 26.5
+  },
+  "confidence": "high",
+  "flags": []
+}

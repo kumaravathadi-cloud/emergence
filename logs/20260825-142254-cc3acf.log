@@ -1,0 +1,21 @@
+{"ts": "2026-08-25T19:52:56+0530", "stage": "sourcing", "candidate": "Clerked", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:52:56+0530", "stage": "sourcing", "candidate": "FullSeam", "status": "ok", "source": "yc"}
+{"ts": "2026-08-25T19:52:57+0530", "stage": "sourcing", "candidate": "Semantic search engine for finding relevant VCs and angels", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:52:57+0530", "stage": "sourcing", "candidate": "Show HN (YC S25): Well", "status": "flagged_low_data", "source": "hacker_news"}
+{"ts": "2026-08-25T19:52:57+0530", "stage": "sourcing", "candidate": "API that falls back to humans when AI is unsure", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:52:57+0530", "stage": "sourcing", "candidate": "Matrix", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:52:57+0530", "stage": "sourcing", "candidate": "Soros", "status": "ok", "source": "hacker_news"}
+{"ts": "2026-08-25T19:53:03+0530", "stage": "analysis", "candidate": "Clerked", "status": "ok", "score": 56.5}
+{"ts": "2026-08-25T19:53:10+0530", "stage": "analysis", "candidate": "FullSeam", "status": "ok", "score": 26.5}
+{"ts": "2026-08-25T19:53:18+0530", "stage": "analysis", "candidate": "Semantic search engine for finding relevant VCs and angels", "status": "ok", "score": 18.5}
+{"ts": "2026-08-25T19:53:25+0530", "stage": "analysis", "candidate": "Show HN (YC S25): Well", "status": "flagged_low_confidence", "score": 18.5}
+{"ts": "2026-08-25T19:53:32+0530", "stage": "analysis", "candidate": "API that falls back to humans when AI is unsure", "status": "ok", "score": 59.0}
+{"ts": "2026-08-25T19:53:37+0530", "stage": "analysis", "candidate": "Matrix", "status": "ok", "score": 3.25}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "analysis", "candidate": "Soros", "status": "ok", "score": 8.5}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "API that falls back to humans when AI is unsure", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "Clerked", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "FullSeam", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "Matrix", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "Semantic search engine for finding relevant VCs and angels", "status": "ok", "call": "Pass"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "Show HN (YC S25): Well", "status": "ok", "call": "Watch"}
+{"ts": "2026-08-25T19:53:43+0530", "stage": "recommendation", "candidate": "Soros", "status": "ok", "call": "Pass"}

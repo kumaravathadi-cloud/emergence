@@ -1,0 +1,52 @@
+{
+  "schema_version": "1",
+  "run_id": "20260825-142254-cc3acf",
+  "candidate_name": "Soros",
+  "source_url": "https://news.ycombinator.com/item?id=47418553",
+  "team": {
+    "summary": "The only available team information is the founder's handle ('muggermuch'); there is no detail on domain expertise, technical background, or prior experience, so team and execution fit cannot be confidently assessed.",
+    "citations": [
+      "https://www.asksoros.com"
+    ]
+  },
+  "product": {
+    "summary": "The product is described as 'AI for geopolitical macro investing.' This suggests a focus on investment decision support, but it is not clear if it automates a specific, named workflow end-to-end for SMBs, nor if it acts as an agent within a repeatable back-office or ops task. The description is too broad to confirm thesis fit.",
+    "citations": [
+      "https://www.asksoros.com"
+    ]
+  },
+  "market": {
+    "summary": "There is no evidence that the product targets SMBs as the primary buyer. 'Geopolitical macro investing' is typically relevant to larger financial institutions or sophisticated investors, not a common workflow across SMBs.",
+    "citations": [
+      "https://www.asksoros.com"
+    ]
+  },
+  "traction": {
+    "summary": "The only traction evidence is a Show HN post with 26 points. No other usage, funding, or adoption signals are present.",
+    "citations": [
+      "https://news.ycombinator.com/item?id=47418553"
+    ]
+  },
+  "risks": {
+    "summary": "Key risks include unclear product focus (whether it automates a specific workflow for SMBs), lack of evidence for SMB market fit, and insufficient information on the team's relevant experience.",
+    "citations": [
+      "https://www.asksoros.com"
+    ]
+  },
+  "differentiation": {
+    "summary": "There is no information about proprietary data, workflow depth, integrations, or distribution advantages. Differentiation cannot be assessed from the available data.",
+    "citations": [
+      "https://www.asksoros.com"
+    ]
+  },
+  "score": {
+    "product_fit": 3.0,
+    "team_execution": 2.5,
+    "market_timing": 0.0,
+    "traction": 3.0,
+    "differentiation": 0.0,
+    "total": 8.5
+  },
+  "confidence": "high",
+  "flags": []
+}
